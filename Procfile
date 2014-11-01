@@ -1,0 +1,1 @@
+web: /app/.halcyon/slug/bin/heroku-snap-example -e prod
